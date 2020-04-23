@@ -1,0 +1,30 @@
+{
+  "name": "@dsr/sketchapp",
+  "version": "0.0.1",
+  "description": "sketchapp components using design system",
+  "keywords": [
+    "react",
+    "design"
+  ],
+  "author": "kernyoo <trustyoo86@gmail.com>",
+  "homepage": "https://github.com/trustyoo86/design-system-react/tree/master/packages/sketch#readme",
+  "license": "ISC",
+  "main": "lib/sketch.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/design-system-react.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/trustyoo86/design-system-react/issues"
+  }
+}
