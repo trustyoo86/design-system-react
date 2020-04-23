@@ -1,0 +1,26 @@
+{
+  "name": "design-system-react",
+  "version": "0.0.1",
+  "description": "design system using react + react-sketchapp + framer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/design-system-react.git"
+  },
+  "keywords": [
+    "react",
+    "sketch",
+    "react-sketchapp",
+    "framer",
+    "design"
+  ],
+  "author": "kern.yoo <trustyoo86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustyoo86/design-system-react/issues"
+  },
+  "homepage": "https://github.com/trustyoo86/design-system-react#readme"
+}
