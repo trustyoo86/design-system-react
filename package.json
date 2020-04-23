@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/trustyoo86/design-system-react/issues"
   },
-  "homepage": "https://github.com/trustyoo86/design-system-react#readme"
+  "homepage": "https://github.com/trustyoo86/design-system-react#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "react": "^16.13.1",
+    "react-sketchapp": "^3.2.0"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
 }
