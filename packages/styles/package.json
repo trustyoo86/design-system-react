@@ -1,0 +1,31 @@
+{
+  "name": "@dsr/styles",
+  "version": "0.0.1",
+  "description": "design system react styles",
+  "keywords": [
+    "react",
+    "design",
+    "es6"
+  ],
+  "author": "kernyoo <trustyoo86@gmail.com>",
+  "homepage": "https://github.com/trustyoo86/design-system-react/tree/master/packages/styles#readme",
+  "license": "ISC",
+  "main": "lib/styles.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/design-system-react.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/trustyoo86/design-system-react/issues"
+  }
+}

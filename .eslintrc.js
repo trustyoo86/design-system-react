@@ -28,7 +28,13 @@ module.exports = {
     'setInterval': false,
     'setTimeout': false,
     'window': false,
-    'XMLHttpRequest': false
+    'XMLHttpRequest': false,
+    'describe': false,
+    'it': false,
+    'expect': false,
+    'shallow': false,
+    'render': false,
+    'mount': false,
   },
   'plugins': [
     'react'
