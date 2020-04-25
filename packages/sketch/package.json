@@ -22,9 +22,30 @@
     "url": "git+https://github.com/trustyoo86/design-system-react.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
   },
   "bugs": {
     "url": "https://github.com/trustyoo86/design-system-react/issues"
+  },
+  "skpm": {
+    "name": "Design-system-react",
+    "manifest": "src/manifest.json",
+    "main": "plugin.sketchplugin"
+  },
+  "dependencies": {
+    "@dsr/styles": "^0.0.1",
+    "lodash": "^4.17.15",
+    "react": "^16.13.1",
+    "react-sketchapp": "^3.2.0",
+    "react-test-renderer": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "@skpm/builder": "^0.7.5"
   }
 }
