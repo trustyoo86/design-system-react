@@ -1,11 +1,25 @@
-# `components`
+# `@dsr/components`
 
-> TODO: description
+> npm publish할 디자인 시스템 타겟 컴포넌트
+
+## 구성
+
+### style
+- React stylesheet
+- [emotion](https://emotion.sh/)
 
 ## Usage
 
-```
-const components = require('components');
+### 테스트
+```bash
+# local
+npm run test
+# watch mode
+npm run test:watch
 
-// TODO: DEMONSTRATE API
+# global
+lerna run test
+
+# watch mode
+lerna run test:watch
 ```
