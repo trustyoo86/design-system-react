@@ -5,7 +5,7 @@
     {
       "name": "Button design guide",
       "identifier": "sketch-buttons",
-      "script": "./buttons/Button.js"
+      "script": "./buttons/sketch.js"
     }
   ],
   "menu": {
