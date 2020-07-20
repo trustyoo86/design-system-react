@@ -39,7 +39,7 @@
     "@emotion/core": "^10.0.28",
     "@emotion/primitives": "^10.0.30",
     "emotion": "^10.0.27",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-primitives": "^0.8.1",
     "react-sketchapp": "^3.2.0",
